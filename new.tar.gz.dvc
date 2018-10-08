@@ -1,0 +1,5 @@
+md5: 141c74b1580f73fc802ce9e4bdf22fc4
+outs:
+- cache: true
+  md5: 1058de626a978091daf5b04d74469e5d
+  path: /home/univer/dvc_file/new.tar.gz
