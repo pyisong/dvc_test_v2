@@ -1,4 +1,6 @@
 ['remote "gpu4"']
 url = ssh://univer@10.10.0.50:/home/univer/dvc_file
 [core]
-remote = gpu4
+remote = myremote
+['remote "myremote"']
+url = /tmp/dvc-storage
