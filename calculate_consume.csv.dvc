@@ -1,0 +1,5 @@
+md5: ae5fca8d19e7181841c4a36269773ef6
+outs:
+- cache: true
+  md5: a9bbaecad540ee45c0d72bc37bc362b3
+  path: /home/univer/dvc_file/calculate_consume.csv

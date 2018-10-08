@@ -1,4 +1,4 @@
 ['remote "gpu4"']
-url = ssh://univer@10.10.0.50:/home/univer/dvc_file/calculate_consume.csv
+url = ssh://univer@10.10.0.50:/home/univer/dvc_file
 [core]
 remote = gpu4
