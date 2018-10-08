@@ -1,5 +1,0 @@
-md5: 964c3aa6dcf6f826822a8f41259995fd
-outs:
-- cache: true
-  md5: 22a1db066cfd3b9a31de73cb225facf0.dir
-  path: /home/univer/dvc_file
