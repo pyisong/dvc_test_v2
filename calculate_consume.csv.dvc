@@ -1,5 +1,0 @@
-md5: b97ea381dd3a3f00f5563f2d9a48d2e6
-outs:
-- cache: true
-  md5: a9bbaecad540ee45c0d72bc37bc362b3
-  path: calculate_consume.csv
