@@ -1,0 +1,5 @@
+md5: 10ad2b5ec505dbb1971a5ea284d485ed
+outs:
+- cache: true
+  md5: 210404fffc0de0d33319bc572f933e4e
+  path: douyu.txt
