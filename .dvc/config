@@ -1,6 +1,18 @@
 ['remote "gpu4"']
 url = ssh://univer@10.10.0.50:/home/univer/dvc_file
 [core]
-remote = myremote
+remote = zhujianwei2
 ['remote "myremote"']
 url = /tmp/dvc-storage
+['remote "s3_zhujianwei"']
+url = s3://zhujianwei
+endpointurl = http://10.10.0.13/
+credentialpath = /home/univer/.aws/credentials
+['remote "s3_zhujianwei2"']
+url = s3://univer-aix
+endpointurl = http://oss-cn-beijing.aliyuncs.com
+credentialpath = /home/univer/.aws/credentials2
+['remote "zhujianwei2"']
+url = s3://univer-aix
+endpointurl = http://oss-cn-beijing.aliyuncs.com
+credentialpath = /home/univer/.aws/credentials2
