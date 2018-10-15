@@ -1,0 +1,5 @@
+md5: 93e2851e2e8081098d871ef348779d76
+outs:
+- cache: true
+  md5: 5576e8a22f80b6a336db39808f427cfb
+  path: ffmpeg-4.0.2.tar.bz2
